@@ -82,6 +82,9 @@ almostDone = [True]
 listInt = [1, 2, 3, 4, 5]
 #22) Print the 3rd item in listInt, using indexes.
 print(listInt[2])
+
+
+
 #23) Make a list called listString of 5 string variables.
 listString = ["1", "2", "3", "4", "5"]
 #24) Print the 4th item in listString, using indexes.
